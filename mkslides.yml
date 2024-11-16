@@ -1,0 +1,19 @@
+index:
+    title: Care for data scientists and models
+    theme: solarized
+slides:
+    theme: serif
+    separator: ^\s*---\s*$
+    separator_vertical: ^\s*-v-\s*$
+    separator_notes: "^Notes?:"
+    separator_charset: utf-8
+revealjs:
+    height: 800
+    width: 1280
+    transition: fade
+plugins:
+    - name: RevealMermaid
+      extra_javascript:
+          - https://cdn.jsdelivr.net/npm/reveal.js-mermaid-plugin/plugin/mermaid/mermaid.min.js
+    - extra_javascript:
+          - https://cdn.jsdelivr.net/npm/reveal-plantuml/dist/reveal-plantuml.min.js
