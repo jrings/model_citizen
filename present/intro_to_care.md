@@ -154,16 +154,14 @@ SHAP measures impact of features on results locally or globally
 - Software Engineering and DevOps
 - Domain Knowledge
 - Judgment of "good enough"
+ 
 
----
+ --
 
-## Link collection
+ ## Takeaways
 
-- https://www.alleghenycounty.us/Services/Human-Services-DHS/DHS-News-and-Events/Accomplishments-and-Innovations/Allegheny-Family-Screening-Tool
-- https://web.mit.edu/rudin/www/docs/LethamRuMcMa15.pdf
-- http://www.rshroff.com/uploads/6/2/3/5/62359383/predictive_analytics.pdf
-- https://oc.acm.org/docs/7-12-2017%20-%20Sameer%20Singh%20-%20Explaining%20Black-Box%20ML%20Predictions.pdf
-- https://dl.acm.org/doi/pdf/10.1145/3613904.3641954
-- https://arxiv.org/abs/1706.03762 <- I let GitHub Copilot suggested this one
-
----
+ * Modeling is art and science
+ * Set everyone up to make new, informed decisions from model output
+ * Advanced data analysis opens up the stories data can tell
+ * Think deeply about the stories the data tells you
+ * There are no quick fixes, but know what is good enough
