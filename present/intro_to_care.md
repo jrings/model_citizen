@@ -101,7 +101,7 @@ _Don't outsource them, don't rush them._
 
 ## Example: HELOC Dataset
 
-- Feature importance of [InterpretML Expolainable Boosting Trees
+- Feature importance of [InterpretML Explainable Boosting Trees
 ![alt text](img/feature_imp.png)
 - Will relying on external risk evaluation make our model unstable?
 
